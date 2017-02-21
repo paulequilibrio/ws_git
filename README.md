@@ -6,3 +6,5 @@ Quem conseguir clonar esse projeto, atualize o README colocando o seu nome abaix
 - Paulo Alexandre
 - Oscar Alencar
 - Deusemar Junior
+- ADAM COUTINHO
+

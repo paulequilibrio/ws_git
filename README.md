@@ -5,3 +5,4 @@ Quem conseguir clonar esse projeto, atualize o README colocando o seu nome abaix
 - Paulo Igor
 - Paulo Alexandre
 - Oscar Alencar
+- Deusemar Junior

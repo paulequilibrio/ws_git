@@ -7,4 +7,4 @@ Quem conseguir clonar esse projeto, atualize o README colocando o seu nome abaix
 - Oscar Alencar
 - Deusemar Junior
 - ADAM COUTINHO
-- Evandro
+- Evandro Paes
